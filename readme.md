@@ -19,7 +19,7 @@ This Python script is designed for batch processing a large number of images at 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Wasim-Al-Kiwan/image-processing-tool
    cd your-repository
 
 2. **Install Dependencies:**
