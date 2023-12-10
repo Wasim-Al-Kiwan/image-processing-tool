@@ -22,15 +22,15 @@ This Python script is designed for batch processing a large number of images at 
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
 
-2. **Install Dependencies:**
+2.  **Install Dependencies:**
   ```bash
   pip install opencv-python
 
-3. **Run the Script:**
+3.  **Run the Script:**
   ```bash
   python image_batch_processor.py
 
-**Example** 
+## Example 
 Enter the input folder path: /path/to/input/folder
 Enter the output folder path: /path/to/output/folder
 Enter the minimum size threshold for compression (MB): 1.5
